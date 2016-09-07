@@ -16,6 +16,8 @@ I can mouse over a cell in the heat map to get more exact information.
 
 https://raw.githubusercontent.com/FreeCodeCamp/ProjectReferenceData/master/global-temperature.json
 
+### Demo:
+
 Github: https://sajibhaskaran.github.io/Heatmap
 
 CodePen: http://codepen.io/sajman/pen/oLGYww.
