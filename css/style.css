@@ -1,0 +1,8 @@
+body{
+  background: #A00008;
+}
+#chart{
+margin: 20px auto;
+float: none;
+display: table;
+}
